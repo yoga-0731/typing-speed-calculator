@@ -1,7 +1,7 @@
 from tkinter import *
 import requests
 
-COUNT = 10
+COUNT = 60
 score = 0
 
 window = Tk()
